@@ -6,7 +6,7 @@ Jogo web interativo de Par ou Impar desenvolvido com HTML, CSS e JavaScript puro
 
 ## Demonstracao
 
-> **Preview online:** [GitHub Pages](https://julio-rodrigo-s.github.io/Projeto-Par-ou-impar/)
+> **Preview online:** [GitHub Pages](https://julio-rodrigo-s.github.io/Projeto-Par-ou-Impar/)
 
 ---
 
